@@ -3177,10 +3177,6 @@ nav .menu-icon,
     display: none;
   }
 
-  body {
-    background: #fff;
-  }
-
   nav {
     width: calc(100% - 30px);
   }
